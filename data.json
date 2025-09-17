@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "id": 3,
+      "name": "Коля Сидоров",
+      "group": "7Б",
+      "username": "коля",
+      "password": "password"
+    }
+  ],
+  "scores": [
+    {
+      "id": 10,
+      "studentId": 3,
+      "period": "сентябрь-октябрь 2025",
+      "category": "Критическое мышление",
+      "points": 80
+    },
+    {
+      "id": 11,
+      "studentId": 3,
+      "period": "сентябрь-октябрь 2025",
+      "category": "Эмоциональный интеллект",
+      "points": 85
+    },
+    {
+      "id": 12,
+      "studentId": 3,
+      "period": "сентябрь-октябрь 2025",
+      "category": "Командная работа",
+      "points": 90
+    }
+  ],
+  "adminCredentials": {
+    "login": "admin",
+    "password": "admin"
+  },
+  "lastUpdated": "2025-09-17T11:56:32.638Z"
+}
