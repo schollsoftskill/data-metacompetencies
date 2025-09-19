@@ -188,6 +188,13 @@
       "group": "3 (12:30-14:00)",
       "username": "терешковаксения",
       "password": "password"
+    },
+    {
+      "id": 29,
+      "name": "Швецов Арсений",
+      "group": "3 (12:30-14:00)",
+      "username": "швецоварсений",
+      "password": "password"
     }
   ],
   "scores": [],
@@ -195,5 +202,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T19:04:27.340Z"
+  "lastUpdated": "2025-09-19T19:04:42.860Z"
 }
