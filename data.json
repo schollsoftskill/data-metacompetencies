@@ -195,6 +195,13 @@
       "group": "3 (12:30-14:00)",
       "username": "швецоварсений",
       "password": "password"
+    },
+    {
+      "id": 30,
+      "name": "Алексеев-Клочков Глеб",
+      "group": "4 (14:10-15:40)",
+      "username": "алексеев-клочковглеб",
+      "password": "password"
     }
   ],
   "scores": [],
@@ -202,5 +209,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T19:04:42.860Z"
+  "lastUpdated": "2025-09-19T19:05:30.271Z"
 }
