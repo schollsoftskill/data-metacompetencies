@@ -237,6 +237,13 @@
       "group": "4 (14:10-15:40)",
       "username": "глобинпавел",
       "password": "password"
+    },
+    {
+      "id": 36,
+      "name": "Киселёв Андрей",
+      "group": "4 (14:10-15:40)",
+      "username": "киселёвандрей",
+      "password": "password"
     }
   ],
   "scores": [],
@@ -244,5 +251,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T19:07:28.337Z"
+  "lastUpdated": "2025-09-19T19:07:41.213Z"
 }
