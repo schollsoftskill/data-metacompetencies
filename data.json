@@ -27,6 +27,13 @@
       "group": "1 (9:00-10:30)",
       "username": "голубевамилослава",
       "password": "password"
+    },
+    {
+      "id": 6,
+      "name": "Донадзе Виктория",
+      "group": "1 (9:00-10:30)",
+      "username": "донадзевиктория",
+      "password": "password"
     }
   ],
   "scores": [],
@@ -34,5 +41,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T18:48:44.039Z"
+  "lastUpdated": "2025-09-19T18:48:57.720Z"
 }
