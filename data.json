@@ -90,6 +90,13 @@
       "group": "2 (10:40-12:10)",
       "username": "голубевалексей",
       "password": "password"
+    },
+    {
+      "id": 15,
+      "name": "Демидов Александр",
+      "group": "2 (10:40-12:10)",
+      "username": "демидовалександр",
+      "password": "password"
     }
   ],
   "scores": [],
@@ -97,5 +104,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T18:51:48.584Z"
+  "lastUpdated": "2025-09-19T18:52:00.500Z"
 }
