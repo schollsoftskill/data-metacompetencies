@@ -34,6 +34,13 @@
       "group": "1 (9:00-10:30)",
       "username": "донадзевиктория",
       "password": "password"
+    },
+    {
+      "id": 7,
+      "name": "Мигунова Варвара",
+      "group": "1 (9:00-10:30)",
+      "username": "мигуноваварвара",
+      "password": "password"
     }
   ],
   "scores": [],
@@ -41,5 +48,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T18:48:57.720Z"
+  "lastUpdated": "2025-09-19T18:49:15.225Z"
 }
