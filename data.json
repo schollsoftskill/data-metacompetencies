@@ -258,6 +258,13 @@
       "group": "4 (14:10-15:40)",
       "username": "пашининярослав",
       "password": "password"
+    },
+    {
+      "id": 39,
+      "name": "Рулло Роман",
+      "group": "4 (14:10-15:40)",
+      "username": "руллороман",
+      "password": "password"
     }
   ],
   "scores": [],
@@ -265,5 +272,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T19:08:13.189Z"
+  "lastUpdated": "2025-09-19T19:08:31.108Z"
 }
