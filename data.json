@@ -209,6 +209,13 @@
       "group": "4 (14:10-15:40)",
       "username": "алёкминскаявасилиса",
       "password": "password"
+    },
+    {
+      "id": 32,
+      "name": "Бабич Оливия",
+      "group": "4 (14:10-15:40)",
+      "username": "бабичоливия",
+      "password": "password"
     }
   ],
   "scores": [],
@@ -216,5 +223,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T19:06:01.897Z"
+  "lastUpdated": "2025-09-19T19:06:27.104Z"
 }
