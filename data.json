@@ -230,6 +230,13 @@
       "group": "4 (14:10-15:40)",
       "username": "варнаковстепан",
       "password": "password"
+    },
+    {
+      "id": 35,
+      "name": "Глобин Павел",
+      "group": "4 (14:10-15:40)",
+      "username": "глобинпавел",
+      "password": "password"
     }
   ],
   "scores": [],
@@ -237,5 +244,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T19:07:11.956Z"
+  "lastUpdated": "2025-09-19T19:07:28.337Z"
 }
