@@ -216,6 +216,13 @@
       "group": "4 (14:10-15:40)",
       "username": "бабичоливия",
       "password": "password"
+    },
+    {
+      "id": 33,
+      "name": "Барсуков Захар",
+      "group": "4 (14:10-15:40)",
+      "username": "барсуковзахар",
+      "password": "password"
     }
   ],
   "scores": [],
@@ -223,5 +230,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T19:06:27.104Z"
+  "lastUpdated": "2025-09-19T19:06:49.421Z"
 }
