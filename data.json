@@ -48,6 +48,13 @@
       "group": "1 (9:00-10:30)",
       "username": "мищенковиктория",
       "password": "password"
+    },
+    {
+      "id": 9,
+      "name": "Романова Ярослава",
+      "group": "1 (9:00-10:30)",
+      "username": "романоваярослава",
+      "password": "password"
     }
   ],
   "scores": [],
@@ -55,5 +62,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T18:49:30.483Z"
+  "lastUpdated": "2025-09-19T18:49:44.512Z"
 }
