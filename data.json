@@ -41,6 +41,13 @@
       "group": "1 (9:00-10:30)",
       "username": "мигуноваварвара",
       "password": "password"
+    },
+    {
+      "id": 8,
+      "name": "Мищенко Виктория",
+      "group": "1 (9:00-10:30)",
+      "username": "мищенковиктория",
+      "password": "password"
     }
   ],
   "scores": [],
@@ -48,5 +55,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T18:49:15.225Z"
+  "lastUpdated": "2025-09-19T18:49:30.483Z"
 }
