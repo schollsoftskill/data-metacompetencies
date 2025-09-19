@@ -111,6 +111,13 @@
       "group": "2 (10:40-12:10)",
       "username": "ивановелисей",
       "password": "password"
+    },
+    {
+      "id": 18,
+      "name": "Лебеденко Михаил",
+      "group": "2 (10:40-12:10)",
+      "username": "лебеденкомихаил",
+      "password": "password"
     }
   ],
   "scores": [],
@@ -118,5 +125,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T18:52:23.640Z"
+  "lastUpdated": "2025-09-19T18:52:44.326Z"
 }
