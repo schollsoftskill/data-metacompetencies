@@ -167,6 +167,13 @@
       "group": "3 (12:30-14:00)",
       "username": "сакуроваева",
       "password": "password"
+    },
+    {
+      "id": 26,
+      "name": "Степанов Никитий",
+      "group": "3 (12:30-14:00)",
+      "username": "степановникитий",
+      "password": "password"
     }
   ],
   "scores": [],
@@ -174,5 +181,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T19:03:31.593Z"
+  "lastUpdated": "2025-09-19T19:03:45.610Z"
 }
