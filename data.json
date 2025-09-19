@@ -125,6 +125,13 @@
       "group": "2 (10:40-12:10)",
       "username": "мухортовавера",
       "password": "password"
+    },
+    {
+      "id": 20,
+      "name": "Полевщиков Пётр",
+      "group": "2 (10:40-12:10)",
+      "username": "полевщиковпётр",
+      "password": "password"
     }
   ],
   "scores": [],
@@ -132,5 +139,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T18:52:59.888Z"
+  "lastUpdated": "2025-09-19T18:53:12.178Z"
 }
