@@ -69,6 +69,13 @@
       "group": "1 (9:00-10:30)",
       "username": "рауульяна",
       "password": "password"
+    },
+    {
+      "id": 12,
+      "name": "Винокурова Маргарита",
+      "group": "1 (9:00-10:30)",
+      "username": "винокуровамаргарита",
+      "password": "password"
     }
   ],
   "scores": [],
@@ -76,5 +83,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T18:50:09.190Z"
+  "lastUpdated": "2025-09-19T18:50:32.745Z"
 }
