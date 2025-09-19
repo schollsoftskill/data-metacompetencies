@@ -97,6 +97,13 @@
       "group": "2 (10:40-12:10)",
       "username": "демидовалександр",
       "password": "password"
+    },
+    {
+      "id": 16,
+      "name": "Ефимова Мария",
+      "group": "2 (10:40-12:10)",
+      "username": "ефимовамария",
+      "password": "password"
     }
   ],
   "scores": [],
@@ -104,5 +111,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T18:52:00.500Z"
+  "lastUpdated": "2025-09-19T18:52:12.479Z"
 }
