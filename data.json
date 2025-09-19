@@ -62,6 +62,13 @@
       "group": "1 (9:00-10:30)",
       "username": "савинцевмарк",
       "password": "password"
+    },
+    {
+      "id": 11,
+      "name": "Рау Ульяна",
+      "group": "1 (9:00-10:30)",
+      "username": "рауульяна",
+      "password": "password"
     }
   ],
   "scores": [],
@@ -69,5 +76,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T18:49:56.598Z"
+  "lastUpdated": "2025-09-19T18:50:09.190Z"
 }
