@@ -181,6 +181,13 @@
       "group": "3 (12:30-14:00)",
       "username": "степановаалександра",
       "password": "password"
+    },
+    {
+      "id": 28,
+      "name": "Терешкова Ксения",
+      "group": "3 (12:30-14:00)",
+      "username": "терешковаксения",
+      "password": "password"
     }
   ],
   "scores": [],
@@ -188,5 +195,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T19:04:03.238Z"
+  "lastUpdated": "2025-09-19T19:04:27.340Z"
 }
