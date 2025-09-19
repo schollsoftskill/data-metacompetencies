@@ -76,6 +76,13 @@
       "group": "1 (9:00-10:30)",
       "username": "винокуровамаргарита",
       "password": "password"
+    },
+    {
+      "id": 13,
+      "name": "Степанов Глеб",
+      "group": "1 (9:00-10:30)",
+      "username": "степановглеб",
+      "password": "password"
     }
   ],
   "scores": [],
@@ -83,5 +90,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T18:50:32.745Z"
+  "lastUpdated": "2025-09-19T18:50:45.211Z"
 }
