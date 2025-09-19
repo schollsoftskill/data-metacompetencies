@@ -13,6 +13,13 @@
       "group": "1 (9:00-10:30)",
       "username": "андрееввладисла",
       "password": "password"
+    },
+    {
+      "id": 3,
+      "name": "Барсукова Александра",
+      "group": "1 (9:00-10:30)",
+      "username": "барсуковаалександра",
+      "password": "password"
     }
   ],
   "scores": [],
@@ -20,5 +27,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T18:47:33.442Z"
+  "lastUpdated": "2025-09-19T18:48:02.340Z"
 }
